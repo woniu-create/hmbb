@@ -59,7 +59,7 @@ const string=`
   display: block;
   position: absolute;
   top: 8px;
-  left: -35px;
+  left: -34px;
   height: 25px;
   width: 6px;
   background: #000;
