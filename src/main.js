@@ -289,7 +289,7 @@ const string=`
     border-left: 30px solid transparent;
     transform: rotate(180deg);
     margin-left: 45px;
-    margin-right: 45px;
+    margin-right: 33px;
 }
 .suit-group .triangle::after{
     content: '';
@@ -401,50 +401,51 @@ const string=`
 }
 
 .pore-01 {
-    width: 50px;
-    height: 50px;
-    bottom: 140px;
-    left: 20px;
+    width: 40px;
+    height: 40px;
+    top: -20px;
+    left: 10px;
 }
 
 .pore-02 {
-    width: 50px;
-    height: 50px;
-    bottom: 30%;
-    right: 50px;	
+    width: 40px;
+    height: 40px;
+    bottom: 46%;
+    right: 14px;	
 }
 
 .pore-03 {
-    width: 20px;
-    height: 20px;
-    bottom: 50%;
+    width: 40px;
+    height: 40px;
+    bottom: 46%;
     left: 20px;
 }
 
 .pore-04 {
-    width: 50px;
-    height: 50px;
-    left: 5px;
+    width: 25px;
+    height: 25px;
+    left: 30px;
+    top: 30px;
 }
 
 .pore-05 {
+    top: -18px;
     width: 20px;
     height: 20px;
-    top: 5%;
-    right: 10px;
+    right: 35px;
 }
 
 .pore-06 {
-    width: 30px;
-    height: 30px;
-    top: 20%;
-    left: 20px;
+    width: 20px;
+    height: 20px;
+    top: 36%;
+    left: 25px;
 }
 
 .pore-07 {
     width: 20px;
     height: 20px;
-    bottom: 22%;
+    bottom: 56%;
     right: 40px;
 }
 @-webkit-keyframes blink { 
